@@ -1,5 +1,8 @@
 # 💫 About Me:
 🧠 Learning AI for Embedded Systems<br>⚡ Building an Autonomous Grid Simulation prototype<br>🤝 Open to collaborations in Smart Energy & Green Tech<br>🛰 Exploring optimization of distributed energy loads with adaptive control<br>💻An enthusiast trending AI and Web development  Explorer
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+</div>
 
 
 ## 🌐 Socials:
