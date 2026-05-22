@@ -23,7 +23,7 @@
 _Descriptions are taken from each repository's public GitHub description field._
 
 | Project Name | Description |
-|---|---|
+| --- | --- |
 | [surepalli-vb-gramg-main](https://github.com/ramunarlapati-13/surepalli-vb-gramg-main) | No description provided. |
 | [rexdocs](https://github.com/ramunarlapati-13/rexdocs) | Surepalli VB-G RAM G |
 | [ramu_blogs](https://github.com/ramunarlapati-13/ramu_blogs) | No description provided. |
