@@ -24,19 +24,19 @@ _Descriptions are taken from each repository's public GitHub description field._
 
 | Project Name | Description |
 | --- | --- |
-| [surepalli-vb-gramg-main](https://github.com/ramunarlapati-13/surepalli-vb-gramg-main) | No description provided. |
-| [rexdocs](https://github.com/ramunarlapati-13/rexdocs) |  |
-| [ramu_blogs](https://github.com/ramunarlapati-13/ramu_blogs) | No description provided. |
-| [quantum-grid](https://github.com/ramunarlapati-13/quantum-grid) | realtime grid monitoring |
-| [FFSD](https://github.com/ramunarlapati-13/FFSD) | End-to-end firefighter safety monitoring app for multi-unit field operations. |
-| [dual_axis_solar_monitor](https://github.com/ramunarlapati-13/dual_axis_solar_monitor) | Smart dual-axis solar tracking system with IoT monitoring using ESP8266. |
-| [all-in-one-qr-generator](https://github.com/ramunarlapati-13/all-in-one-qr-generator) | No description provided. |
-| [ALIET-ATTENDANCE](https://github.com/ramunarlapati-13/ALIET-ATTENDANCE) | No description provided. |
 | [advanced_dashboard](https://github.com/ramunarlapati-13/advanced_dashboard) | No description provided. |
-| [The-Perpetual-Achiever](https://github.com/ramunarlapati-13/The-Perpetual-Achiever) | From intentional goal setting to lifelong success sustainability. |
-| [selvaraj-portfolio](https://github.com/ramunarlapati-13/selvaraj-portfolio) | No description provided. |
-| [Thing-Speak-Dashboard](https://github.com/ramunarlapati-13/Thing-Speak-Dashboard) | No description provided. |
+| [ALIET-ATTENDANCE](https://github.com/ramunarlapati-13/ALIET-ATTENDANCE) | No description provided. |
+| [all-in-one-qr-generator](https://github.com/ramunarlapati-13/all-in-one-qr-generator) | No description provided. |
+| [dual_axis_solar_monitor](https://github.com/ramunarlapati-13/dual_axis_solar_monitor) | Dual-Axis IoT Solar Tracker Title: Smart Dual-Axis Solar Tracking System with Integrated IoT Monitoring using ESP8266. Objective: The primary goal of this project is to maximize the efficiency of solar energy harvesting by ensuring that a solar panel remains perpendicular to the sun's rays throughout the day. |
+| [FFSD](https://github.com/ramunarlapati-13/FFSD) | FFSD is an end-to-end firefighter safety monitoring app for multi-unit field operations. Wearable devices stream telemetry into Firebase, and the mobile app provides command-level situational awareness for live response and post-incident analysis. Core operational goals: - Continuous monitoring |
 | [neon-fire](https://github.com/ramunarlapati-13/neon-fire) | No description provided. |
+| [quantum-grid](https://github.com/ramunarlapati-13/quantum-grid) | realtime grid monitoring |
+| [ramu_blogs](https://github.com/ramunarlapati-13/ramu_blogs) | No description provided. |
+| [rexdocs](https://github.com/ramunarlapati-13/rexdocs) | surepalli VB-G RAM G |
+| [selvaraj-portfolio](https://github.com/ramunarlapati-13/selvaraj-portfolio) | No description provided. |
+| [surepalli-vb-gramg-main](https://github.com/ramunarlapati-13/surepalli-vb-gramg-main) | No description provided. |
+| [The-Perpetual-Achiever](https://github.com/ramunarlapati-13/The-Perpetual-Achiever) | From Intentional Goal Setting to Lifelong Success Sustainability By Ramu Narlapati Dedicated to Suresh Bandela: For instilling the profound wisdom that one must always strive to do good for others, or if that is not possible, to stay idle, but never commit injustice. Table of Contents |
+| [Thing-Speak-Dashboard](https://github.com/ramunarlapati-13/Thing-Speak-Dashboard) | No description provided. |
 
 <br/>
 
