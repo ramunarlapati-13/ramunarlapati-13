@@ -33,7 +33,6 @@ _Descriptions are taken from each repository's public GitHub description field._
 | [quantum-grid](https://github.com/ramunarlapati-13/quantum-grid) | realtime grid monitoring |
 | [ramu_blogs](https://github.com/ramunarlapati-13/ramu_blogs) | No description provided. |
 | [rexdocs](https://github.com/ramunarlapati-13/rexdocs) | surepalli VB-G RAM G |
-| [selvaraj-portfolio](https://github.com/ramunarlapati-13/selvaraj-portfolio) | No description provided. |
 | [surepalli-vb-gramg-main](https://github.com/ramunarlapati-13/surepalli-vb-gramg-main) | No description provided. |
 | [The-Perpetual-Achiever](https://github.com/ramunarlapati-13/The-Perpetual-Achiever) | From Intentional Goal Setting to Lifelong Success Sustainability By Ramu Narlapati Dedicated to Suresh Bandela: For instilling the profound wisdom that one must always strive to do good for others, or if that is not possible, to stay idle, but never commit injustice. Table of Contents |
 | [Thing-Speak-Dashboard](https://github.com/ramunarlapati-13/Thing-Speak-Dashboard) | No description provided. |
