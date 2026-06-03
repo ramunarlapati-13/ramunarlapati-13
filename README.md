@@ -99,7 +99,28 @@ I'm **Ramu Narlapati**, an Electrical & Electronics Engineer who thrives on buil
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- SECTION E: GITHUB STATS                                        -->
+<!-- SECTION E: PROJECTS                                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🚀 Projects
+
+| # | Project | Description | Stack | |
+| :---: | :--- | :--- | :--- | :---: |
+| 01 | **FFSD** | Wearable firefighter safety — vitals, geofence, and incident dashboard | `React Native` `Expo` `Firebase` `TypeScript` | [↗](https://github.com/ramunarlapati-13/FFSD) |
+| 02 | **quantum-grid** | Real-time electrical grid simulation & power flow monitor | `Express` `Node.js` `JavaScript` `HTML` `CSS` | [↗](https://quantum-grid-eta.vercel.app) |
+| 03 | **dual_axis_solar_monitor** | Smart dual-axis solar tracking and IoT telemetry dashboard | `ESP8266` `IoT` `JavaScript` `HTML` `CSS` | [↗](https://dual-axis-solar-monitor.vercel.app) |
+| 04 | **Thing-Speak-Dashboard** | Real-time DHT11 & MQ2 sensor monitoring dashboard | `ThingSpeak` `MQ-2` `DHT11` `JavaScript` | [↗](https://thing-speak-dashboard.vercel.app) |
+| 05 | **advanced_dashboard** | Hardware-tethered analytical dashboard with multi-gate auth | `Next.js` `React` `Tailwind` `Firebase` `TypeScript` | [↗](https://advanced-dashboard-mocha.vercel.app) |
+| 06 | **ALIET-ATTENDANCE** | State-of-the-art college management & attendance tracker | `Next.js` `React` `Tailwind` `Firebase` `TypeScript` | [↗](https://aliet-attendance.vercel.app) |
+| 07 | **all-in-one-qr-generator** | Professional QR code and custom bio-links generator | `React` `Vite` `Tailwind` `Firebase` `JavaScript` | [↗](https://aioqr.vercel.app) |
+| 08 | **ramu_blogs** | Personal blog site on technology, energy, and design | `Next.js` `React` `Tailwind` `Firebase` `TypeScript` | [↗](https://ramublogs.vercel.app) |
+| 09 | **rexdocs** | Sleek glassmorphism cloud document organizer via GDrive | `Firebase` `Google Drive API` `JavaScript` `HTML` `CSS` | [↗](https://ramunarlapati-13.github.io/rexdocs/) |
+| 10 | **surepalli-vb-gramg-main** | Village portal for muster records and NREGA quick links | `HTML` `CSS` `JavaScript` `PWA` | [↗](https://ramunarlapati-13.github.io/surepalli-vb-gramg-main/) |
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- SECTION F: GITHUB STATS                                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Stats
@@ -109,7 +130,7 @@ I'm **Ramu Narlapati**, an Electrical & Electronics Engineer who thrives on buil
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=ramunarlapati-13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-git-master-denvercoder1.vercel.app?user=ramunarlapati-13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/>
 
@@ -119,7 +140,7 @@ I'm **Ramu Narlapati**, an Electrical & Electronics Engineer who thrives on buil
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- SECTION F: GITHUB TROPHIES                                     -->
+<!-- SECTION G: GITHUB TROPHIES                                     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🏆 GitHub Trophies
