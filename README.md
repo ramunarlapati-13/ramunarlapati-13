@@ -124,7 +124,7 @@ I'm **Ramu Narlapati**, an Electrical & Electronics Engineer who thrives on buil
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=ramunarlapati-13&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=ramunarlapati-13&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="95%" />
 
 <br/>
 <br/>
