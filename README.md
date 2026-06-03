@@ -14,7 +14,7 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=⚡+EEE+Engineer+%7C+Embedded+Systems+%7C+IoT+Developer;🌐+Full+Stack+Web+Dev+%7C+AI+Enthusiast+%7C+Green+Tech;🔋+Building+Smart+Energy+%26+Embedded+Solutions" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&repeat=true&width=650&height=50&lines=EEE+Engineer+%7C+Embedded+Systems+%7C+IoT+Developer;Full+Stack+Web+Dev+%7C+AI+Enthusiast+%7C+Green+Tech;Building+Smart+Energy+%26+Embedded+Solutions" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -104,8 +104,8 @@ I'm **Ramu Narlapati**, an Electrical & Electronics Engineer who thrives on buil
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ramunarlapati-13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramunarlapati-13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ramunarlapati-13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="180" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ramunarlapati-13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180" />
 
 <br/>
 
@@ -124,7 +124,7 @@ I'm **Ramu Narlapati**, an Electrical & Electronics Engineer who thrives on buil
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=ramunarlapati-13&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=ramunarlapati-13&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="95%" />
 
 <br/>
 <br/>
