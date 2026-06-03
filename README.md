@@ -130,7 +130,7 @@ I'm **Ramu Narlapati**, an Electrical & Electronics Engineer who thrives on buil
 
 <br/>
 
-<img src="https://github-readme-streak-stats-git-master-denvercoder1.vercel.app?user=ramunarlapati-13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="[https://github-readme-streak-stats-git-master-denvercoder1.vercel.app?user=ramunarlapati-13&theme=tokyonight&hide_border=true](https://camo.githubusercontent.com/50a08ee5799e5ac67bd0b5f571c60b2a4319af3fd80641802c7521eea68d145a/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d72616d756e61726c61706174692d3133267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565)" alt="GitHub Streak" />
 
 <br/>
 
