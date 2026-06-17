@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD033 MD041 -->
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -10,7 +11,7 @@
 <!-- SECTION A: ANIMATED HEADER                                     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0047FF,100:00B4FF&height=200&section=header&text=Hey%20There!%20👋&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=I'm%20Ramu%20Narlapati&descSize=30&descAlignY=55&descColor=a0c4ff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0047FF,100:00B4FF&height=200&section=header&text=Hey%20There!%20👋&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=I'm%20Ramu%20Narlapati&descSize=30&descAlignY=55&descColor=a0c4ff&animation=fadeIn" width="100%" alt="Header Waving Animation" />
 
 <br/>
 
@@ -38,7 +39,7 @@ I'm **Ramu Narlapati**, an Electrical & Electronics Engineer who thrives on buil
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" />
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" alt="Coding Animation GIF" />
 
 <br/>
 
@@ -49,6 +50,7 @@ I'm **Ramu Narlapati**, an Electrical & Electronics Engineer who thrives on buil
 ## 🛠️ Tech Stack
 
 ### ⚙️ Embedded & IoT
+
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
@@ -56,6 +58,7 @@ I'm **Ramu Narlapati**, an Electrical & Electronics Engineer who thrives on buil
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 
 ### 🧑‍💻 Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -64,18 +67,21 @@ I'm **Ramu Narlapati**, an Electrical & Electronics Engineer who thrives on buil
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🌐 Frontend & Web
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🔧 Backend & Cloud
+
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ### 🎨 Design & Tools
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -130,7 +136,7 @@ I'm **Ramu Narlapati**, an Electrical & Electronics Engineer who thrives on buil
 
 <br/>
 
-<img src="[https://github-readme-streak-stats-git-master-denvercoder1.vercel.app?user=ramunarlapati-13&theme=tokyonight&hide_border=true](https://camo.githubusercontent.com/50a08ee5799e5ac67bd0b5f571c60b2a4319af3fd80641802c7521eea68d145a/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d72616d756e61726c61706174692d3133267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565)" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-git-master-denvercoder1.vercel.app?user=ramunarlapati-13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/>
 
@@ -154,7 +160,7 @@ I'm **Ramu Narlapati**, an Electrical & Electronics Engineer who thrives on buil
 <!-- SECTION H: FOOTER — LET'S CONNECT                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
 <p>
 I'm always excited to collaborate on innovative projects, especially in <b>IoT</b>, <b>Embedded Systems</b>, <b>Green Tech</b>, and <b>AI-powered solutions</b>. Whether you have a project idea, want to discuss technology, or just want to say hi — feel free to reach out!
@@ -179,6 +185,6 @@ I'm always excited to collaborate on innovative projects, especially in <b>IoT</
 <br/>
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4FF,50:0047FF,100:0a0f1e&height=120&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4FF,50:0047FF,100:0a0f1e&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer Waving Animation" />
 
 </div>
