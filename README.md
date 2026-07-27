@@ -126,37 +126,6 @@ I'm **Ramu Narlapati**, an Electrical & Electronics Engineer who thrives on buil
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- SECTION F: GITHUB STATS                                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ramunarlapati-13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="180" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ramunarlapati-13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats-git-master-denvercoder1.vercel.app?user=ramunarlapati-13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramunarlapati-13&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=bf91f3&hide_border=true" alt="Activity Graph" width="95%" />
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- SECTION G: GITHUB TROPHIES                                     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=ramunarlapati-13&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="95%" />
-
-<br/>
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- SECTION H: FOOTER — LET'S CONNECT                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
